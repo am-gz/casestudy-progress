@@ -1,0 +1,15 @@
+This project is a case study on the notion of "progress", as part of the PhD project "The prototype structure of concept drift", part of CASCADE, an EU-funded MSCA doctoral network.
+
+For the semasiological and onomasiological analysis, I use the nephosem package, developed for the Nephological Semantics project in the QLVL research group at KU Leuven. The data is prepared for visualization using the semcloud package (through dimensionality reduction and clustering), and the visualizations are made with NephoVis and the Level 3 ShinyApp.
+
+# Token extraction
+
+# References
+## Software
+@software{QLVL_nephosem,
+    author = {{QLVL}},
+    doi = {10.5281:zenodo.5710426},
+    license = {GPL-3.0-or-later},
+    title = {{nephosem}},
+    version = {0.1.0}
+}
